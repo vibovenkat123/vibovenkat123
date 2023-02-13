@@ -5,13 +5,14 @@
 
 🔭 I’m currently working on pennyearned, a new, simple, privacy focused finance app
 
-Pennyearned is a new finance website I am making
-It is made in Go, NextJS, React, Postgres, and Redis with Rest Apis
+Pennyearned is a new finance website I am making\
+It is made in Go, NextJS, React, Postgres, and Redis with Rest Apis\
 If you want to help me work on it, contact me at <vibovenkat@gmail.com>
 
-🌱 I’m currently learning python, c, tensorflow, and c++
+🌱 I’m currently learning python, c, terraform, and c++
 
 I am learning c and c++ to gain understanding of lower-level languages, and python for its versatillity
+I am learning terraform for devops automation with IAC
 
 ⭐️ Skills:
 
