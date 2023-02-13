@@ -15,14 +15,14 @@ I am learning c and c++ to gain understanding of lower-level languages, and pyth
 
 ⭐️ Skills:
 
-Go - For APIS and backend
-React, Svelte, Vue - For frontend frameworks
-NextJS, SvelteKit - For frontend SSG frameworks
-Typescript - For frontend logic
-Shell, ansible, dotfiles - For automation
-Postgres, SQL, Redis - For databases
-GraphQL, Rest - For APIS
-Argon2, bcrypt - For hashing passwords
+Go - For APIS and backend\
+React, Svelte, Vue - For frontend frameworks\
+NextJS, SvelteKit - For frontend SSG frameworks\
+Typescript - For frontend logic\
+Shell, ansible, dotfiles - For automation\
+Postgres, SQL, Redis - For databases\
+GraphQL, Rest - For APIS\
+Argon2, bcrypt - For hashing passwords\
 Firebase - For simple prototypes
 
 And more too come ...
