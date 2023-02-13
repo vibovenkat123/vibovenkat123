@@ -23,6 +23,7 @@ Shell, ansible, dotfiles - For automation\
 Postgres, SQL, Redis - For databases\
 GraphQL, Rest - For APIS\
 Argon2, bcrypt - For hashing passwords\
-Firebase - For simple prototypes
+Firebase - For simple prototypes\
+Core Utils - For speeding up debugging (awk, grep, sed, etc.)
 
 And more too come ...
