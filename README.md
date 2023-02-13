@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there, my name is Vaibhav 👋
+##### Frontend, backend, and devops developer
 
-<!--
-**vibovenkat123/vibovenkat123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 Reach me at <vibovenkat@gmail.com>  
 
-Here are some ideas to get you started:
+🔭 I’m currently working on pennyearned, a new, simple, privacy focused finance app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pennyearned is a new finance website I am making
+It is made in Go, NextJS, React, Postgres, and Redis with Rest Apis
+If you want to help me work on it, contact me at <vibovenkat@gmail.com>
+
+🌱 I’m currently learning python, c, tensorflow, and c++
+
+I am learning c and c++ to gain understanding of lower-level languages, and python for its versatillity
+
+⭐️ Skills:
+
+Go - For APIS and backend
+React, Svelte, Vue - For frontend frameworks
+NextJS, SvelteKit - For frontend SSG frameworks
+Typescript - For frontend logic
+Shell, ansible, dotfiles - For automation
+Postgres, SQL, Redis - For databases
+GraphQL, Rest - For APIS
+Argon2, bcrypt - For hashing passwords
+Firebase - For simple prototypes
+
+And more too come ...
