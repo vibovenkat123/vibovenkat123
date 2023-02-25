@@ -3,7 +3,7 @@
 
 📫 Reach me at <vibovenkat@gmail.com>  
 
-🔭 I’m currently working on pennyearned, a new, simple, privacy focused finance app
+🔭 I’m currently working on review-gpt, an automated code review tookl
 
 Pennyearned is a new finance website I am making\
 It is made in Go, NextJS, React, Postgres, and Redis with Rest Apis\
