@@ -3,7 +3,7 @@
 
 📫 Reach me at <vibovenkat@gmail.com>
 
-🔭 I’m currently working on pennyearned, a simple but amazing budgeting app
+🔭 I’m currently working on Flexigig, a way to connect with job/freelace listings with AI!
 
 🌱 I’m currently learning c, and c++ and haskell
 
@@ -24,36 +24,30 @@ NextJS, SvelteKit - For frontend SSG frameworks\
 Typescript, HTML, CSS, Javascript - For frontend logic\
 
 
-Swift - For basic mobile apps (pennyearned comming soon!)\
+Swift - For basic mobile apps\
 
 
-Shell, ansible, dotfiles - For automation\
+Shell, ansible - For automation\
 
 
 Postgres, SQL, Redis - For databases\
 
 
-GraphQL, Rest - For APIS\
+Rest, (soon to be GraphQL) - For APIs\
 
 
 Argon2, bcrypt - For hashing passwords\
 
 
-Lua - for configuration\
-
-
 Firebase - For simple prototypes\
 
 
-Core Utils - For speeding up debugging (awk, grep, sed, etc.)
+Core Utils - For speeding up developing\
 
 
-Python - For image processing
+Python - For image processing and DSA\
 
 
 Terraform - for IAC
 
-
-And more too come ...
-
-[![Vaibhav's Github Stats](https://github-readme-stats.vercel.app/api?username=vibovenkat123&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibovenkat123&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
