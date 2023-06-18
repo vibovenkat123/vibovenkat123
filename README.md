@@ -50,4 +50,4 @@ Python - For image processing and DSA
 
 Terraform - for IAC
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibovenkat123&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibovenkat123&theme=transparent&hide_border=true&hide=lua,javascript)](https://github.com/anuraghazra/github-readme-stats)
