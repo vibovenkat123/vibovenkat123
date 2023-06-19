@@ -12,42 +12,25 @@ I am learning Haskell to learn about functional programmign
 
 ⭐️ Skills:
 
-Go & NodeJS - For APIS and backend
+Go & NodeJS
 
 
-React, Svelte, Vue - For frontend frameworks
+React, Svelte
 
 
-NextJS, SvelteKit - For frontend SSG frameworks
+NextJS, SvelteKit
 
 
-Typescript, HTML, CSS, Javascript - For frontend logic
+Typescript, HTML, CSS, Javascript
 
 
-Swift - For basic mobile apps
+Swift, React Native
 
 
-Shell, ansible - For automation
-
-
-Postgres, SQL, Redis - For databases
-
-
-Rest, (soon to be GraphQL) - For APIs
-
-
-Argon2, bcrypt - For hashing passwords
-
-
-Firebase - For simple prototypes
-
-
-Core Utils - For speeding up developing
+Postgres, SQL, Redis
 
 
 Python - For image processing and DSA
 
 
 Terraform - for IAC
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibovenkat123&theme=transparent&hide_border=true&hide=lua,javascript)](https://github.com/anuraghazra/github-readme-stats)
